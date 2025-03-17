@@ -22,3 +22,7 @@ Note that the development build is not optimized.
 To create a production build, use npm run build.
 
 webpack compiled successfully
+
+file structure :-
+
+![image](https://github.com/user-attachments/assets/6f2cbcb6-6838-46cc-9503-bd05eebd953e)
