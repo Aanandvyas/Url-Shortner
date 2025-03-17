@@ -26,3 +26,13 @@ webpack compiled successfully
 file structure :-
 
 ![image](https://github.com/user-attachments/assets/6f2cbcb6-6838-46cc-9503-bd05eebd953e)
+
+.env (client) :-
+
+REACT_APP_API_URL=http://localhost:5000
+
+.env (server) :-
+
+DATABASE_URL = mongodb+srv://healthHack:<YOUR'S MAN>@healthhack.5noaz.mongodb.net/healthDB
+PORT = 5000
+
